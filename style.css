@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main {
+  width: 400px;
+  height: 300px;
+  margin: 120px auto;
+  background-color: black;
+  text-align: center;
+  border-radius: 5px;
+  line-height: 30px;
+}
+
+.main img {
+  width: 380px;
+  height: 200px;
+  border: 1px solid yellow;
+  margin: 10px;
+}
+
+.content h1 {
+  font-weight: 700px;
+  font-style: oblique;
+  color: white;
+}
+
+.content p {
+  color: white;
+}
